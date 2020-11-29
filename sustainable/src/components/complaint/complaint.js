@@ -125,15 +125,9 @@ export default class Complaint extends Component {
 
             <div className="col-md-6 contact">
               <div className="contact-header ct">
-                Join Us With 
+                Complaint
               </div>
-              <div className="contact-icon ct">
-                  <span><i class="fa fa-github icon-social" aria-hidden="true"></i></span>
-                  <span><i class="fa fa-youtube icon-social" aria-hidden="true"></i></span>
-                  <span><i class="fa fa-facebook-square icon-social" aria-hidden="true"></i></span>
-                  <span><i class="fa fa-instagram icon-social" aria-hidden="true"></i></span>
-              </div>
-
+             
               <div className="space">
                 
               </div>

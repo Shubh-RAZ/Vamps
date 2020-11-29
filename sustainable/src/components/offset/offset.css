@@ -1,0 +1,260 @@
+.offset{
+  background-image: url(game7.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+    width:100%;
+    height: 100vh;
+}
+
+.top-bar{
+    display: flex;
+    height: 15vh;
+    width: 70%;
+    margin: auto;
+    position: relative;
+  
+}
+
+.offset-comment{
+
+    width:70%;
+    font-size: 20px;
+    text-align: center;
+    color:white;
+}
+
+.offset-co2-emission{
+    width: 10%;
+    justify-content: center;
+    padding: 20px;
+}
+
+.fa-water{
+    font-size:150px;
+}
+.fa-car{
+    font-size: 150px;
+}
+
+.fa-bicycle{
+    font-size: 150px;
+}
+
+.fa-tree{
+    font-size: 150px;
+}
+
+.fa-industry{
+    font-size: 150px;
+}
+
+.fa-bus{
+    font-size: 150px;
+}
+
+
+
+.fa-thermometer-empty{
+    font-size: 80px;
+    color: white;
+}
+
+.fa-thermometer-quarter{
+    font-size: 80px;
+    color:  #39FF14;
+}
+
+.fa-thermometer-half{
+    font-size: 80px;
+    color:yellow;
+}
+
+.fa-thermometer-three-quarters{
+    font-size: 80px;
+    color:darkred
+}
+.fa-thermometer-full{
+    font-size: 80px;
+    color:red;
+}
+
+
+
+.fa-car{
+     transition: all .2s ease-in-out; 
+}
+
+.fa-car:hover{
+    transform: scale(1.3);
+    text-shadow: 2px 4px 6px white ;
+
+}
+
+.fa-bus{
+     transition: all .2s ease-in-out; 
+}
+
+.fa-bus:hover{
+    transform: scale(1.3);
+    text-shadow: 2px 4px 6px white ;
+
+}
+
+.fa-industry{
+     transition: all .2s ease-in-out; 
+}
+
+.fa-industry:hover{
+    transform: scale(1.3);
+    text-shadow: 2px 4px 6px white ;
+
+}
+
+.fa-bicycle{
+     transition: all .2s ease-in-out; 
+}
+
+.fa-bicycle:hover{
+    transform: scale(1.3);
+    text-shadow: 2px 4px 6px white ;
+
+}
+
+.fa-tree{
+     transition: all .2s ease-in-out; 
+}
+
+.fa-tree:hover{
+    transform: scale(1.3);
+    text-shadow: 2px 4px 6px white ;
+
+}
+
+.money-left{
+   padding: 5px;
+    width:fit-content;
+    color: white;
+    width:20%;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.money-icon{
+    display: flex;
+    width: fit-content;
+    margin: auto;
+}
+
+.moneyvalue{
+    font-size:28px ;
+    position: relative;
+    bottom: 5px;
+}
+
+.icon-temperature{
+    width:fit-content;
+    margin: auto;
+    color: white;
+}
+
+.mny-spc{
+    margin: 5px;
+}
+
+.money-heading{
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.fa-inr{
+    font-size: 30px;
+    color: red;
+}
+
+.offset-cont{
+    width:70%;
+    margin: auto;
+
+}
+
+.in{
+ 
+    width:100%;
+    margin: auto;
+}
+
+.icon-box{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top:70px;
+}
+
+.component i{
+   
+        text-shadow: 2px 4px 6px black; 
+
+}
+
+.fa:hover{
+    scale:1.2
+}
+
+
+.fa-car{
+    color: red;
+    
+}
+
+.fa-bus{
+    color:yellow;
+}
+
+.fa-industry{
+    color: grey;
+}
+
+.fa-tree{
+    color: green;
+}
+
+.fa-tint{
+    font-size: 180px;
+    color:aqua;
+}
+
+.fa-tint:hover{
+    transform: scale(1.3);
+    text-shadow: 2px 4px 6px white ;
+}
+
+.fa-bicycle{
+    color:rgb(123,104,238)
+}
+
+.green-desc{
+    color: #39FF14;
+    font-size: 35px;
+}
+
+.red-desc{
+    color: red;
+    font-size: 35px;
+}
+
+.offset-description{
+    position: absolute;
+    bottom: 0;
+    height: 12vh;
+    background-color: rgba(0,0,0,0.7);
+    width:100%
+}
+
+.description-comment{
+    width:70%;
+    margin: auto;
+    color: white;
+    font-size: 25px;
+}

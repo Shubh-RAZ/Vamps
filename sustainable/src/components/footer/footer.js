@@ -9,15 +9,15 @@ export default class Footer extends Component {
                 <div className="row foot mt-100">
                     <div className="col-sm-4 ">
                         <div className="footer-sec">
-                            <a href="/blog">Blog</a>
-                            <a href="/birds">City-API</a>
+                            <a href="/blogs">Blog</a>
+                            <a href="/birds">City-AQI</a>
                             <a href="/time-machine" >Climate Time Machine</a>
                             <a href="/susgoals">Sustainable-goals</a>
                         </div>                  
                     </div>                
                     <div className="col-sm-4 ">
                         <div className="footer-sec">
-                        <a href="/temperature-api">Temp-API</a>
+                        <a href="/quiz">Quiz</a>
                         <a href="/calender">Calender</a>
                         <a href="/no2">No2</a>
                         <a href="/methane">Methane</a>
@@ -26,9 +26,9 @@ export default class Footer extends Component {
                     <div className="col-sm-4 ">
                         <div className="footer-sec">
                         <a href="/Globalcarbonfootprint">GreenHouse Gas Emission</a>
-                        <a href="/birds">Birds</a>
-                        <a href="/air-api">Air</a>
-                        <a href="/susgoals">Sustainable-goals</a>
+                        <a href="/plastic-tree">Plastic Tree</a>
+                        <a href="/stubble-burning">Stubble burning</a>
+                        <a href="/offset">Maintain the balance</a>
                         </div>
                     </div>                
                 </div>

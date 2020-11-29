@@ -81,12 +81,15 @@ input[type="text"]::placeholder {
 }
 
 .contact-header{
-    font-size:35px;
+    font-size:60px;
     justify-content: center;
     text-align: center;
     color: rgb(72,209,204);
     letter-spacing: 5px;
     font-weight: lighter;
+    position: relative;
+    font-weight: 700;
+    top:30%;
 }
 
 .contact-icon{

@@ -12,9 +12,9 @@ export default class global_carbon_footprint extends Component {
                 <div className="glob-footprint">
                     <div className="globe"><img src="earth6.png"></img></div>
                     <div className="globe-top">
-                        <div className="co2 ems"><div className="co2-box"><Co2emissioninkg></Co2emissioninkg></div></div>
-                        <div className="no2 ems"><div className="no2-box"><NitrousOxide></NitrousOxide></div></div>
-                        <div className="ch4 ems"><div className="ch4-box"><Methane></Methane></div></div>
+                        <div className="co2 ems"><div className="co2-box"><a href="/carbon-calc"><Co2emissioninkg></Co2emissioninkg></a></div></div>
+                        <div className="no2 ems"><div className="no2-box"><a href="/carbon-calc"><NitrousOxide></NitrousOxide></a></div></div>
+                        <div className="ch4 ems"><div className="ch4-box"><a href="/carbon-calc"><Methane></Methane></a></div></div>
                     </div>
                 </div>
             </div>

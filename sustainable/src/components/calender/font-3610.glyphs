@@ -1,0 +1,7020 @@
+{
+copyright = "Copyright \U201cshivangiafsha\U201d 2020";
+customParameters = (
+{
+name = description;
+value = "";
+},
+{
+name = license;
+value = "FontStruct Non-Commercial Software End User License Agreement 1.0\n\nThis software end user license agreement (hereinafter \U201cAgreement\U201d) is made between you or, if you represent a legal entity, that legal entity (hereinafter \U201cYou\U201d) and \U201cshivangiafsha\U201d, the copyright holder and designer (hereinafter \U201cFont Designer\U201d) of the font software named \U201cfont\U201d (hereinafter \U201cFont Software\U201d).\n\n1. BINDING AGREEMENT\nThis Agreement is a binding agreement between You and the Font Designer and shall set forth the terms and conditions under which You can use the Font Software. For the purposes of this Agreement, Font Software shall mean the Font Software, and any parts or copies of it.\n\n2. GRANT OF NON-EXCLUSIVE AND LICENCE\nThe Font Designer hereby grants You a non-exclusive, non-transferable licence to use the Font Software provided that You comply with all terms and conditions of this Agreement.\n\n2.1 PERSONAL USE\nYou may use the Fonts Software only for Your own Personal Purposes and for Your Work. For the purposes of this Agreement, \U201cPersonal Purposes\U201d shall mean any private use of the Font Software by you. \U201cWork\U201d shall mean any work or result created by You or on Your behalf with the Font Software. For the avoidance of doubt, the use for Personal Purposes does not allow any use of the Font Software and/or any Work for commercial purposes (see Section 2.2) and/or as a web-font (see Section 2.6).\n\n2.2 NO COMMERCIAL USE\nNeither the Font Software, nor any of its individual components or any Work, may be used by You for any form of profit-making or otherwise commercial projects, without express prior written permission from the Font Designer.\n\n2.3 NO SALE OR DISTRIBUTION\nYou may not sell, rent, license, sublicense, distribute, redistribute, give-away or make available (in any other way) the Font Software alone or as part of any collection, product or service to any third party. \n\n2.4 NO MODIFICATION\nYou may not modify, adapt, rename, translate, reverse engineer, decompile, disassemble, alter, or attempt to discover the source code of the Font Software.\n\n2.5 EMBEDDING\nYou may embed the Font Software in documents, applications or devices either as a rasterized representation of the Font Software (e.g., a GIF or JPEG) or as a subset of the Font Software as long as the document, application or device is distributed in a secure format that permits only the viewing and printing but not the editing of the text.\n\n2.6 NO USE AS A WEBFONT\nYou may not make the Font Software accessible on a web server in order to enable a web browser to render the content of Websites using the respective Font Software.\n\n2.7 BACKUP\nYou may make backup copies of the Font Software for archival purposes only, provided that You retain exclusive custody and control over such copies. Any backup copy of the Font Software must contain the same copyright, trademark, and other proprietary information as the original.\n\n2.8 PRINT SHOPS AND SERVICE BUREAUS\nYou may provide a copy of the Font Software used in Your Work to a print shop, service bureau, etc. for printing or otherwise outputting Your Work. Afterwards, the print shop, service bureau, etc. must destroy and/or delete all copies of the Font Software.\n\n3. ATTRIBUTION\nIf You make Your Work publicly accessible in any form, You must keep intact all copyright notices for the Font Software and display, reasonable to the medium or means You are utilizing for Your Work, an attribution notice (hereinafter \U201cThe Attribution Notice\U201d) comprising of:\n\nthe name of the Font Designer or pseudonym, if applicable (\U201cshivangiafsha\U201d);\nthe title of the Font Software (\U201cfont\U201d); and\nto the extent reasonably practicable, the URI (https://fontstruct.com/fontstructions/show/1849598) from where the Font was originally downloaded.\n\nThe Attribution Notice may be implemented in any reasonable manner. For the avoidance of doubt, You may only use the credit required by this Section for the purpose of attribution in the manner set out above and, by exercising Your rights under this License, You may not implicitly or explicitly assert or imply any connection with, sponsorship or endorsement by the Font Designer of You or Your Work.\n\n4. YOUR REPRESENTATIONS AND INDEMNIFICATIONS\nYou represent, warrant, and covenant that You shall use the Font Software only in accordance with the terms of this Agreement and keep the Font Designer fully indemnified against all actions, claims, costs, proceedings and damages whatsoever incurred by any breach of any of the aforesaid representations, warranties of this Agreement.\n\n5. OWNERSHIP AND RIGHTS TO THE FONT SOFTWARE\nThe Font Designer reserves all rights not expressly granted to You in this Agreement (hereinafter \U201cReserved Rights\U201d). The Font Software is protected by copyright and other intellectual property laws and treaties. You acknowledge that the Font Designer shall be the sole owner of the Font Software, of the copyright and all Reserved Rights of whatever kind and nature in the Font Software.\n\n6. WARRANTY\nThe Font Software is made available \U201cas is\U201d WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT.THE FONT DESIGNER DOES NOT AND CANNOT GUARANTEE THE PERFORMANCE OR RESULTS YOU MAY OBTAIN BY USING THE FONT SOFTWARE.\nTHE FONT DESIGNER SHALL IN NO EVENT BE LIABLE TO YOU FOR ANY CONSEQUENTIAL, INCIDENTAL OR SPECIAL DAMAGES, INCLUDING ANY LOST PROFITS OR LOST SAVINGS, OR FOR ANY CLAIM BY ANY THIRD PARTY, ARISING OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE.\n\n7. TERMINATION / CONDITION PRECEDENT\nYou may use the Font Software only as set forth in this Agreement. Any use of the Font Software that is not expressly allowed in this Agreement will automatically terminate Your rights to use the Font Software under this Agreement.  If Your right to use the Font Software is terminated You shall immediately stop using the Font Software, call back or change any Work that is used in the public, and delete/destroy any copies of the Font Software. The termination of the Agreement shall not affect the right of the Font Designer to claim damages or other rights.\n\n8. WAIVER\nA waiver by either Party of any term or condition of this Agreement shall not be deemed or construed to be a waiver of such term or condition for the future or any subsequent breach thereof.  All remedies, rights, undertakings, obligations and agreements contained in this Agreement shall be cumulative and none of them shall be in limitation of any other remedy, right, undertaking, obligation or agreement of either Party.\n\n9. GOVERNING LAW, PLACE OF JURISDICTION\nThis Agreement shall be construed and shall take effect in accordance with the laws of the Federal Republic of Germany excluding the United Nations Convention on Contracts for the International Sales of Goods (CISG).  To the extent permitted by law, the Courts of Berlin, Germany shall have exclusive jurisdiction to resolve any dispute which may arise.\n\n10. ENTIRE AGREEMENT\nThis Agreement contains the entire agreement between the Parties. No variation of any of the terms or conditions of this Agreement may be made unless such variation is agreed in writing and signed by You and the Font Designer.\n\n11. SEVERABILITY\nIf any provision of this Agreement is adjudged by a court to be invalid or unenforceable, such provision shall in no way affect any other provision of this Agreement, the application of such provision in any other circumstance or the validity or enforceability of this Agreement.  The Parties will negotiate in good faith about a provision that will replace the invalid or unenforceable provision.\n\nFontStruct Notice: FontStruct no Party to this Agreement\n\nPlease note that FontStruct (www.fontstruct.com) is not a party to this Agreement between You and the Font Designer.\n\nFontStruct makes no warranty of any kind in connection with the Font Software, its use or the results that You may obtain by using the Font Software.\n\nFontStruct shall in no event be liable to You or any third party for any damages whatsoever arising out of or relating to this Agreement or the use of the Font Software, including but not limited to incidental, special damages, any lost profits or lost savings or any claim made by a third party.\n\n";
+},
+{
+name = licenseURL;
+value = "https://fontstruct.com/fontstructions/license/1849598";
+},
+{
+name = vendorID;
+value = FSTR;
+},
+{
+name = fontstructID;
+value = 1849598;
+},
+{
+name = fontstructKey;
+value = 1cb343f1e59b16bfef7cede5ef1deadc0ef06a4b;
+},
+);
+date = "2020-11-22 10:10:46 +0100";
+designer = "\U201cshivangiafsha\U201d";
+designerURL = "/fontstructors/1834621";
+familyName = font;
+disablesAutomaticAlignment = 1;
+fontMaster = (
+{
+ascender = 2240;
+capHeight = 2030;
+customParameters = (
+{
+name = typoAscender;
+value = 2240;
+},
+{
+name = typoDescender;
+value = 210;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = underlinePosition;
+value = 210;
+},
+);
+descender = 210;
+id = fs1849598;
+weightValue = 400;
+widthValue = 5;
+xHeight = 2030;
+},
+);
+gridLength = 70;
+gridSubDivision = 70;
+glyphs = (
+{
+glyphname = A;
+unicode = 0041;
+layers = (
+{
+layerId = fs1849598;
+name = Regular;
+width = 8540;
+components = (
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,595.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,595.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1085.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1085.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1085.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1645.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1715.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1855.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1645.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1715.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1855.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2065.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2135.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2065.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2065.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2065.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2065.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2065.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2065.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2065.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2135.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2765.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2975.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2765.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2975.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2765.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2975.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3255.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3395.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3465.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3535.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3605.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3255.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3255.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3255.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3255.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3255.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3255.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3255.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3395.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3465.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3535.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4025.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4025.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4585.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4725.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4725.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4725.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4725.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4725.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4725.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4725.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4725.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4935.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5145.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5215.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4935.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5145.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5215.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5495.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5565.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5635.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5705.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5705.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5705.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5705.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5705.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5705.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5705.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5705.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5635.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5565.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5565.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6265.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6405.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6265.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6405.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6475.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6755.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6755.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6755.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6755.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6755.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6755.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6755.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6755.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6825.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6965.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7035.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7315.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7385.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7455.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7525.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7595.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7665.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7945.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7945.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7945.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7945.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7945.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7945.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7945.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7945.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8015.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8085.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8155.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8225.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8295.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8365.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8435.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8505.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8505.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8505.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8505.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8505.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8505.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8505.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8505.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,595.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,595.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1085.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1085.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1645.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1715.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1855.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1925.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1925.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1925.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1925.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1925.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2555.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2555.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2555.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2555.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2555.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2555.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2975.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3045.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3185.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2975.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3045.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3185.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3185.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3185.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3185.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3045.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2975.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3185.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1855.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1855.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1645.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1715.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1855.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1925.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1925.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1855.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2975.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2975.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3605.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3535.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3465.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3465.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3535.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3605.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3675.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3745.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3815.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3675.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3675.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3675.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3675.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3675.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3675.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3675.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4305.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4375.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5495.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5565.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5635.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5705.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6265.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6405.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6475.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6545.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6615.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6265.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6405.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6475.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6545.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6615.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6825.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7175.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7105.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7035.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7035.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7035.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7035.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7035.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7035.000000,1505.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6965.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6965.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6965.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6965.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6965.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6965.000000,1505.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6965.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7035.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7385.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7455.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7525.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7595.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7665.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7665.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7595.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7525.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7455.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7385.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7385.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7455.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7525.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7595.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7665.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7385.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7455.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7595.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7665.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7525.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7665.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7665.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7595.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7525.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7455.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7525.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7595.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7665.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7595.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7875.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7875.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7105.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7175.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6825.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6405.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6475.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6545.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6265.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6265.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6475.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6545.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6615.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5635.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,1505.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,1505.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5495.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5565.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5635.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,1505.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,1505.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5705.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4795.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5145.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5145.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4935.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4935.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4795.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4725.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4725.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7875.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7875.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1855.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2065.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2975.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3045.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2975.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3045.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2975.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3045.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3185.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3535.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3605.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3745.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3815.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4305.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4375.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4375.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4375.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4375.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4375.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4375.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4375.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3745.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3745.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3745.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3745.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3745.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3745.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4935.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5145.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5215.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4935.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5145.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5215.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5495.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5565.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5635.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5495.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5495.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5495.000000,2275.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5565.000000,2275.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5635.000000,2275.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5705.000000,2275.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,2275.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4025.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4025.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4305.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4305.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4305.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4305.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4305.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4585.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3395.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3465.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3535.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3395.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3465.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2765.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2765.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2765.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2975.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2625.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2625.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2625.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2625.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2625.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2625.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2625.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2625.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2135.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2135.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1505.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1505.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1505.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1505.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1505.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1505.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1505.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1505.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1645.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1715.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1645.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1715.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1085.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1085.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1085.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1085.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1085.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,595.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,595.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,595.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,595.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,595.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,595.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,595.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,875.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,875.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,875.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,875.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,875.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,875.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,875.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,875.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1085.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1085.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6825.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6965.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7035.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7175.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7175.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7175.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7175.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7175.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7175.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7175.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7175.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7315.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7385.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7455.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7665.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7595.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7525.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8015.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8015.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8015.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8015.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8015.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8015.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8015.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8085.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8155.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8225.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8295.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8365.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8435.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8435.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8435.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8435.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8435.000000,2625.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8435.000000,2555.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,8435.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1645.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1645.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1645.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1645.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1645.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1855.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1715.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1855.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1855.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,1715.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,2065.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,1715.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,1575.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,1995.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,1855.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6265.000000,2695.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6265.000000,2485.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,2415.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6405.000000,2345.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6475.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,6405.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,2765.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,2835.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,1925.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4725.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,4795.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,1645.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,1785.000000}";
+},
+{
+name = "new-ring-5";
+transform = "{0.070000,0.000000,0.000000,0.070000,5145.000000,1925.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,245.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,245.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,245.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,245.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1085.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1085.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1365.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1435.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1505.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3255.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3185.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3185.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3185.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3255.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3255.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3185.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3185.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3185.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3185.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3255.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3395.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3605.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3605.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3605.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3605.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3605.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3605.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3605.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3605.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3675.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3745.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3745.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3745.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3745.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4585.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4585.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5145.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5215.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5215.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5215.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5215.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5285.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5565.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5565.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5565.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5565.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5635.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5705.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6055.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5985.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5985.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5985.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5985.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6405.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6475.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6475.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6475.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6405.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5215.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5565.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5985.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6055.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6825.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6755.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6755.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6825.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,6965.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7035.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7105.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7315.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7385.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7455.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7525.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7945.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7875.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7875.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7945.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7945.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7945.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,7875.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,8155.000000,1365.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,8155.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,8155.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,8155.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,8155.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,8155.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,8155.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,8155.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,8155.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,8225.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,8295.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,8085.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,8225.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,595.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,525.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,595.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,525.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,595.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,525.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,455.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,385.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,805.000000,315.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,595.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1015.000000,525.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,455.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,385.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,875.000000,315.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,595.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,525.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,455.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,385.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,315.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1365.000000,315.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1365.000000,455.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1365.000000,385.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,525.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,455.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,385.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,315.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,595.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4725.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4725.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2135.000000,595.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2065.000000,525.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,455.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1925.000000,385.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1855.000000,315.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,595.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1855.000000,525.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1925.000000,455.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,385.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2065.000000,315.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,595.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,525.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,455.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,455.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,455.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,595.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,525.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,455.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,385.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,315.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,315.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,315.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,175.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,175.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,175.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,175.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2135.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1155.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1365.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1435.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1505.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,805.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,875.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,455.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,385.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,315.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,455.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,385.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,315.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,595.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2765.000000,595.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,595.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,595.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2975.000000,595.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2975.000000,525.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,455.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,385.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2765.000000,315.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2765.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2975.000000,245.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5565.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5495.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,1855.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5145.000000,1855.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,5075.000000,1715.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,4725.000000,1715.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3325.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3535.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3605.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3465.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3395.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4025.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3815.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3815.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3815.000000,175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3815.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4025.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3815.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3815.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3815.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3815.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3885.000000,175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3815.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4025.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4025.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4375.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4585.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4585.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4375.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4585.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4585.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4585.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4585.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4585.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4585.000000,175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4585.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4375.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4375.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4515.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4935.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4935.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4935.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4935.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5005.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5285.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5285.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5285.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5285.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5285.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5285.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5285.000000,665.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,665.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,665.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5705.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5985.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5985.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5985.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5985.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5985.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6545.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6475.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6405.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6405.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6475.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6545.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6545.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6545.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6615.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6685.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6615.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6545.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6475.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6405.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6265.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6195.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6265.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6405.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6475.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7315.000000,175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7315.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7595.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7665.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7875.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7945.000000,595.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7595.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7665.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7875.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7945.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7875.000000,175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7945.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8295.000000,525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8295.000000,455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8295.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8295.000000,315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8225.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8365.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8435.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8155.000000,385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8295.000000,245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8225.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8295.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8365.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8435.000000,105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,245.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,245.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,875.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,805.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,735.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,805.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,875.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,945.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,805.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,875.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,805.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,875.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1365.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1435.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1225.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1365.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1435.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1645.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1715.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1645.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1715.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1575.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2065.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2135.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2065.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2065.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2065.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2135.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2135.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2135.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2135.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,-665.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2765.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2625.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2555.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2555.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2555.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2555.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2625.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2765.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2555.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2625.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2765.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,-525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3115.000000,-525.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3395.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3465.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3535.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3605.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3675.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3745.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,3815.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4235.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4165.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4305.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4375.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4445.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4095.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4025.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4795.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4795.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4795.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4795.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4795.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4935.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4865.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4935.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4725.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4585.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4655.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,4585.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5285.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5285.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5285.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5285.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5285.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5215.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5495.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5565.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5215.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5355.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5495.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5565.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5285.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5425.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6055.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5985.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5915.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5845.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,5775.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6055.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6125.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6055.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6335.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6405.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6475.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6545.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6405.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6475.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6545.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6755.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6825.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6965.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6895.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6825.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,6755.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7105.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7105.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7175.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7245.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7315.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7385.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7385.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7175.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7315.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7665.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7595.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7525.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7665.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7735.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,7805.000000,-455.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8015.000000,-35.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8085.000000,-105.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8155.000000,-175.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8225.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8295.000000,-245.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8155.000000,-315.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8085.000000,-385.000000}";
+},
+{
+name = "inverted-star-1";
+transform = "{0.070000,0.000000,0.000000,0.070000,8015.000000,-455.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1365.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1435.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1505.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1295.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,245.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,245.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,245.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,315.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,385.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,455.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,525.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,595.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,665.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1925.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1855.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1715.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1715.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1715.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1715.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1715.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1785.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1855.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1925.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,1995.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2485.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2205.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2275.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2345.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2415.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2905.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2835.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2765.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,1295.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,1225.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,1155.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,1085.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,875.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2695.000000,805.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2625.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,2765.000000,945.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,1015.000000}";
+},
+{
+name = "new-ring-7";
+transform = "{0.070000,0.000000,0.000000,0.070000,3955.000000,1225.000000}";
+},
+);
+},
+);
+},
+{
+glyphname = "new-ring-5";
+layers = (
+{
+layerId = fs1849598;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"-500.0 -276.0 OFFCURVE",
+"-276.0 -500.0 OFFCURVE",
+"0.0 -500.0 CURVE SMOOTH",
+"276.0 -500.0 OFFCURVE",
+"500.0 -276.0 OFFCURVE",
+"500.0 0.0 CURVE SMOOTH",
+"500.0 276.0 OFFCURVE",
+"276.0 500.0 OFFCURVE",
+"0.0 500.0 CURVE SMOOTH",
+"-276.0 500.0 OFFCURVE",
+"-500.0 276.0 OFFCURVE",
+"-500.0 0.0 CURVE SMOOTH",
+);
+},
+{
+closed = 1;
+nodes = (
+"-187.0 0.0 CURVE SMOOTH",
+"-187.0 104.0 OFFCURVE",
+"-104.0 187.0 OFFCURVE",
+"0.0 187.0 CURVE SMOOTH",
+"104.0 187.0 OFFCURVE",
+"188.0 104.0 OFFCURVE",
+"188.0 0.0 CURVE SMOOTH",
+"188.0 -104.0 OFFCURVE",
+"104.0 -188.0 OFFCURVE",
+"0.0 -188.0 CURVE SMOOTH",
+"-104.0 -188.0 OFFCURVE",
+"-187.0 -104.0 OFFCURVE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "new-ring-7";
+layers = (
+{
+layerId = fs1849598;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"-500.0 -276.0 OFFCURVE",
+"-276.0 -500.0 OFFCURVE",
+"0.0 -500.0 CURVE SMOOTH",
+"276.0 -500.0 OFFCURVE",
+"500.0 -276.0 OFFCURVE",
+"500.0 0.0 CURVE SMOOTH",
+"500.0 276.0 OFFCURVE",
+"276.0 500.0 OFFCURVE",
+"0.0 500.0 CURVE SMOOTH",
+"-276.0 500.0 OFFCURVE",
+"-500.0 276.0 OFFCURVE",
+"-500.0 0.0 CURVE SMOOTH",
+);
+},
+{
+closed = 1;
+nodes = (
+"-62.0 0.0 CURVE SMOOTH",
+"-62.0 35.0 OFFCURVE",
+"-35.0 62.0 OFFCURVE",
+"0.0 62.0 CURVE SMOOTH",
+"35.0 62.0 OFFCURVE",
+"63.0 35.0 OFFCURVE",
+"63.0 0.0 CURVE SMOOTH",
+"63.0 -35.0 OFFCURVE",
+"35.0 -63.0 OFFCURVE",
+"0.0 -63.0 CURVE SMOOTH",
+"-35.0 -63.0 OFFCURVE",
+"-62.0 -35.0 OFFCURVE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+{
+glyphname = "inverted-star-1";
+layers = (
+{
+layerId = fs1849598;
+name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"499.0 -500.0 LINE",
+"500.0 -500.0 LINE",
+"500.0 -499.0 LINE",
+"499.0 -499.0 LINE",
+);
+},
+{
+closed = 1;
+nodes = (
+"-500.0 499.0 LINE",
+"-499.0 499.0 LINE",
+"-499.0 500.0 LINE",
+"-500.0 500.0 LINE",
+);
+},
+{
+closed = 1;
+nodes = (
+"-500.0 0.0 LINE",
+"-500.0 -500.0 LINE",
+"0.0 -500.0 LINE",
+"-137.0 -138.0 LINE",
+);
+},
+{
+closed = 1;
+nodes = (
+"0.0 500.0 LINE",
+"-500.0 500.0 LINE",
+"-500.0 0.0 LINE",
+"-137.0 137.0 LINE",
+);
+},
+{
+closed = 1;
+nodes = (
+"0.0 500.0 LINE",
+"138.0 137.0 LINE",
+"500.0 0.0 LINE",
+"500.0 500.0 LINE",
+);
+},
+{
+closed = 1;
+nodes = (
+"0.0 -500.0 LINE",
+"500.0 -500.0 LINE",
+"500.0 0.0 LINE",
+"138.0 -138.0 LINE",
+);
+},
+);
+width = 1000;
+},
+);
+},
+);
+disablesNiceNames = 1;
+instances = (
+{
+name = Regular;
+},
+);
+manufacturer = "https://fontstruct.com";
+manufacturerURL = "https://www.fontstruct.com";
+unitsPerEm = 2048;
+versionMajor = 1;
+versionMinor = 0;
+kerning = {
+fs1849598 = ();
+};
+}

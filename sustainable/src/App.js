@@ -44,6 +44,11 @@ import Methane from './components/methane/methane';
 import Globaltemp from './components/globaltemp/globaltemp';
 import sealevel from './components/climate-change/sealevel';
 import global_carbon_footprint from './components/global-carbon-foorptint/global-carbon-footprint';
+import carbon_calc from './components/Carbon-calculator/carbon-calc';
+import offset from './components/offset/offset';
+import PlasticTree from './components/plastic_tree/plastic';
+import Tree from './components/stubble_burning/tree';
+import Quiz from './components/quiz/quiz'
 
 
 export default class App extends Component {
@@ -58,7 +63,7 @@ export default class App extends Component {
          <Route path="/" exact component={Resources}/>
           <Route path='/' exact component={Complaint}/> 
           <Route path="/" exact component={Footer} />
-          <Route path='/blog' exact component={Blogs}/>
+          <Route path='/blogs' exact component={Blogs}/>
           <Route path="/solar" exact component={Solar}/>
           <Route path="/birds" exact component ={Birds}/>
           <Route path="/wind" exact component={Wind}/>
@@ -95,6 +100,12 @@ export default class App extends Component {
           <Route path="/calender" exact component={calender}></Route>
           <Route path="/sealevel" exact component={sealevel}></Route>
           <Route path="/globalcarbonfootprint" exact component={global_carbon_footprint}></Route>
+          <Route path="/carbon-calc" exact component={carbon_calc}></Route>
+          <Route path="/offset" exact component={offset}></Route>
+          <Route path="/plastic-tree" eaxct component={PlasticTree}></Route>
+          <Route path="/stubble-burning" exact component={Tree}></Route>
+          <Route path="/quiz" exact component={Quiz}></Route>
+      
         
         </switch>
         

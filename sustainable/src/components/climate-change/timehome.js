@@ -18,7 +18,7 @@ export default class Timehome extends Component {
                     <div className="time-box row">
                         <div className="col-sm-4 ">
                             <div className="sealevel">
-                                <div className="seaimg"><a href="/sealevel"><img src="sealevel.jpg"></img></a></div>
+                                <div className="seaimg"><a href="/sealevel"><img src="artics.jpg"></img></a></div>
                             </div>
                         </div>
 

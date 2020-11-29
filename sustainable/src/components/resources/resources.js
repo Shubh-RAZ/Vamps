@@ -16,7 +16,7 @@ export default class Resources extends Component {
         
         <div className="res ">
           <div className="row renewable rw">
-            <div className="col-sm-12 contr">renewable resouces</div>
+            <div className="col-sm-12 contr">renewable resources</div>
             <div className="col-md-3  col-sm-4 resr">
               <div className="rw-names">
                 <a href="/Solar"><img className="rw-img"src="./env10.jpeg" alt="#"></img></a>
@@ -41,7 +41,7 @@ export default class Resources extends Component {
           </div>
 
           <div className="row non-renewable rw">
-            <div className="col-sm-12 contr">non-renewable resouces</div>
+            <div className="col-sm-12 contr">non-renewable resources</div>
             <div className="col-md-3  col-sm-4 resr">
               <div className="rw-names">
               <img className="rw-img"src="./env17.jpg" alt="#"></img>
